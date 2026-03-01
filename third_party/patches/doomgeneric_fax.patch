@@ -1,0 +1,5 @@
+# Placeholder patch file.
+# Generate after implementing doomgeneric_fax.c bindings.
+# Example workflow:
+#   cd third_party/doomgeneric
+#   git diff > ../patches/doomgeneric_fax.patch
